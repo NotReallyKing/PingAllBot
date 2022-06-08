@@ -238,7 +238,7 @@ My name is **Samantha**. I'm here to help you to get everyone's attention by men
 
 I have some additional cool features and also I can work in channels.
 
-Don't forget to join my [channel](http://t.me/PytgMusicUpdates) to recieve information on all the latest updates.
+Don't forget to join my [channel](http://t.me/PytgMusicUpdates) to recieve information on all the latest updates.I am Managed By: @AttitudeKing_vj
 
 Hit /help to find out my commands and the use of them.
 '''
@@ -253,7 +253,7 @@ Hey, let's have a quick look at my commands.
 **Commands**:
 - /ping "input": <i>Mention all members.</i>
 - /remove: <i>Remove all deleted accounts.</i>
-- @admins: <i>Mention all admins.</i>
+- /admins: <i>Mention all admins.</i>
 - /bots: <i>Get the full bot list.</i>
 - /cancel: <i>Stop an on going process.</i>
 
